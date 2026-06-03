@@ -1,0 +1,12 @@
+{
+  "name": "apology-page",
+  "version": "1.0.0",
+  "description": "Heartfelt Apology Page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
